@@ -1,0 +1,7 @@
+{
+  "name": "emp-vue3tsx-pure-template",
+  "version": "1.0.0",
+  "description": "Emp template for vue3 tsx.",
+  "main": "index.js",
+  "license": "MIT"
+}
